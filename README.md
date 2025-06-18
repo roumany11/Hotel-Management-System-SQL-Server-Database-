@@ -2,6 +2,11 @@
 
 This project provides a comprehensive SQL Server database schema for a hotel management system.
 
+## Entity Relationship Diagram
+
+![Hotel ERD](./docs/erd.png)
+
+
 ## Structure
 - **Tables/**: Core tables defining entities and relationships
 - **Views/**: Reporting views for aggregated data
